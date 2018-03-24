@@ -4,6 +4,7 @@
   
 you can use it with the Simple Modbus Master Library https://github.com/BlackBrix/Simple-Modbus-Master
   
+see as well: https://github.com/angeloc/simplemodbusng for a more developed and maintained variant of this library
   
 10/11/2014 - SMSV10  
 Added function 6  
