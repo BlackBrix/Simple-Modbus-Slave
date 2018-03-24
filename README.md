@@ -2,6 +2,8 @@
 ## A simple Modbus Slave Arduino Library
 (Original by Juan Bester  --> https://goo.gl/9au7R1)  
   
+you can use it with the Simple Modbus Master Library https://github.com/BlackBrix/Simple-Modbus-Master
+  
   
 10/11/2014 - SMSV10  
 Added function 6  
